@@ -9,5 +9,5 @@ const client = new Client({
     ]
 })
 
-client.login("MTM1Mjk4MzEwMzQ0NjE5MjEzOA.GjeTZb.s7Qhj_uKYoGzd0OhIBEMkVRXXXdwimJI1PqyFE"
+client.login(""
 );
